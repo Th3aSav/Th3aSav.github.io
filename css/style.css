@@ -1,9 +1,28 @@
 .mypic{
-	width: 50%;
+	width: 100%;
 }
 .mypic2{
 	width: 100%;
 }
 div{
 	margin-bottom: 50px;
+}
+.gaf{
+	background-color: lightcoral;
+}
+h5{
+	font-size: 30px;
+}
+.mypic3{
+	width: 130%;
+}
+.mypic4{
+	width: 50%;
+}
+.titlos{
+	font-size: 100px;
+}
+
+.align{
+	text-align: center;
 }
